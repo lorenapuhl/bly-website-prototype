@@ -1,10 +1,10 @@
 {
   "Lun": [
     { "name": "Bungee Stability", "bTime": "07:00", "eTime": "08:00", "instructor": "Andrea Galván", "status": "green" },
-    { "name": "Bungee Gravity", "bTime": "18:30", "eTime": "19:30", "instructor": "Marco Polo", "status": "red" }
+    { "name": "Indoor Cycling I", "bTime": "18:30", "eTime": "19:30", "instructor": "Marco Polo", "status": "red" }
   ],
   "Mar": [
-    { "name": "Indoor Cycling I", "bTime": "09:00", "eTime": "10:00", "instructor": "Lucia Sanz", "status": "green" },
+    { "name": "Bungee Gravity", "bTime": "09:00", "eTime": "10:00", "instructor": "Lucia Sanz", "status": "green" },
     { "name": "Arms & Shoulder Burn", "bTime": "19:00", "eTime": "20:00", "instructor": "Clara Ruiz", "status": "orange" }
   ],
   "Mié": [
