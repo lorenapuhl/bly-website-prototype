@@ -5,14 +5,14 @@
   ],
   "Mar": [
     { "name": "Bungee Gravity", "bTime": "09:00", "eTime": "10:00", "instructor": "Lucia Sanz", "status": "green" },
-    { "name": "Arms & Shoulder Burn", "bTime": "19:00", "eTime": "20:00", "instructor": "Clara Ruiz", "status": "orange" }
+    { "name": "Upper Body Burn", "bTime": "19:00", "eTime": "20:00", "instructor": "Clara Ruiz", "status": "orange" }
   ],
   "Mié": [
     { "name": "Indoor Cycling II", "bTime": "10:30", "eTime": "11:30", "instructor": "Elena Sol", "status": "green" },
     { "name": "Stability & Strength", "bTime": "17:00", "eTime": "18:00", "instructor": "Ricardo Paz", "status": "red" }
   ],
   "Jue": [
-    { "name": "Upper Body Performance", "bTime": "08:00", "eTime": "09:00", "instructor": "Lucia Sanz", "status": "green" },
+    { "name": "Upper Body Burn", "bTime": "08:00", "eTime": "09:00", "instructor": "Lucia Sanz", "status": "green" },
     { "name": "Full Body Beat", "bTime": "20:00", "eTime": "21:00", "instructor": "Sofi Luna", "status": "green" }
   ],
   "Vie": [
