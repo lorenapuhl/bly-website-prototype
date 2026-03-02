@@ -32,4 +32,4 @@ website-prototype/
 
 ## Live Demo
 
-Visit the live site: [https://lorenapuhl.github.io/holy-website-prototype/](https://lorenapuhl.github.io/holy-website-prototype/)
+Visit the live site: [https://lorenapuhl.github.io/bly-website-prototype/](https://lorenapuhl.github.io/bly-website-prototype/)
